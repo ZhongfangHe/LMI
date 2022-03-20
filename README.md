@@ -1,6 +1,8 @@
 # LMI
 Replication for the paper "A computationally efficient mixture innovation model for time-varying parameter regressions".
 
+Place all files into a single folder to run the programs.
+
 The file "main_simulate_data.m" simulates data from the DGP studied in the paper.
 
 The file "main_sim_github.m" estimates the MI and LMI models for a simulated data.
@@ -14,3 +16,5 @@ The spreadsheets "SimData_S.xlsx", "SimData_M.xlsx", "SimData_L.xlsx" contain a 
 The spreadsheet "Equity_Qtrly_Github.xlsx" contains the equity premium data.
 
 The spreadsheet "Inflation_Qtrly_Github.xlsx" contains the inflation rate data.
+
+Other files are functions and should not be modified.
