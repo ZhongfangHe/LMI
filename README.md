@@ -1,4 +1,3 @@
-# LMI
 Replication for the paper "A computationally efficient mixture innovation model for time-varying parameter regressions".
 
 Place all files into a single folder to run the programs.
